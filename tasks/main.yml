@@ -15,7 +15,7 @@
     - name: unarchive
       unarchive:
         src: /tmp/eksctl_Linux_amd64.tar.gz
-        dest: /tmp
+        dest: /usr/local/bin/
         remote_src: true
         owner: root
         group: root
