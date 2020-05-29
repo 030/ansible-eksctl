@@ -12,8 +12,8 @@
 ![Last commit](https://img.shields.io/github/last-commit/030/ansible-eksctl.svg)
 ![Release date](https://img.shields.io/github/release-date/030/ansible-eksctl.svg)
 ![Latest Production Release Version](https://img.shields.io/github/release/030/ansible-eksctl.svg)
-[![Ansible Galaxy](https://img.shields.io/ansible/role/0.svg)](https://galaxy.ansible.com/030/ansible-eksctl)
-[![Ansible Role](https://img.shields.io/ansible/role/d/0)](https://galaxy.ansible.com/030/ansible-eksctl)
+[![Ansible Galaxy](https://img.shields.io/ansible/role/48981.svg)](https://galaxy.ansible.com/030/ansible-eksctl)
+[![Ansible Role](https://img.shields.io/ansible/role/d/48981)](https://galaxy.ansible.com/030/ansible-eksctl)
 
 Installs [ansible-eksctl](https://github.com/weaveworks/eksctl).
 
