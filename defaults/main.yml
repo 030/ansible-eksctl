@@ -1,2 +1,3 @@
 ---
+eksctl_checksum: sha512:069f1980a7942a038e181e7e75d23fa3d8102c2667c1560475cf3bfb570c745a  # yamllint disable-line rule:line-length
 eksctl_version: "0.20.0"
