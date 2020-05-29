@@ -15,7 +15,7 @@
 [![Ansible Galaxy](https://img.shields.io/ansible/role/0.svg)](https://galaxy.ansible.com/030/ansible-eksctl)
 [![Ansible Role](https://img.shields.io/ansible/role/d/0)](https://galaxy.ansible.com/030/ansible-eksctl)
 
-Installs [ansible-eksctl](https://github.com/https://github.com/weaveworks/eksctl).
+Installs [ansible-eksctl](https://github.com/weaveworks/eksctl).
 
 ## Stargazers over time
 
